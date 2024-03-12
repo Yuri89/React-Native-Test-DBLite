@@ -40,7 +40,7 @@ Por fim se todas as informações estiverem preenchidas, você pode apertar o su
 !Atenção
 No caso de deletar o usuário não vai funcionar o Fetch, neste caso adicionei um botão para fazer um atualizar os usuários.
 
-.
+////////////////////////////////////////////////////////////////////////////////////
 ![App Screenshot](https://github.com/Yuri89/React-Native-Test-DBLite/blob/main/imagensProjec/image%20(1).jpg?raw=true)
 
 
